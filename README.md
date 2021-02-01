@@ -1,2 +1,2 @@
-# Automatic-Image-Captioning
-Computer Vision Nanodegree Project 
+# Computer Vision Nanodegree
+Project: Automatic Image Captioning
