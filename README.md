@@ -38,7 +38,6 @@ Trained the network around 10 hrs using GPU and achieved average loss of around 
 
 __Some very accurate results from the model__
 
-![image5]
 ![image6]
 
 __Some not very accurate captions__ 😂😂
