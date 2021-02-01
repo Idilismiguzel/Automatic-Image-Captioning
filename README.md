@@ -1,15 +1,29 @@
 [//]: # (Image References)
 [image1]: ./images/coco-examples.jpg "COCO"
 [image2]: ./images/encoder-decoder.png "Encoder-Decoder"
+[image3]: ./images/encoder.png "Encoder"
+[image4]: ./images/decoder.png "Decoder"
 
 # Automatic Image Captioning 
 
 ## Project Overview
 
-This project requires to create a deep learning architecture with two components: a CNN to transform the input image into a set of features, an RNN that turns those features into descriptive text aka captions. Same as before, after completing the project it has to be submitted and reviewed by Udacity team.In this project, you will create a neural network architecture to automatically generate captions from images.
+Create a deep learning architecture with two components: a CNN to transform the input image into a set of features, an RNN that turns those features into descriptive text aka captions. 
+
+General information about the project:
+
+1. The Microsoft **C**ommon **O**bjects in **CO**ntext (MS COCO) dataset is a large-scale dataset for scene understanding.  The dataset is commonly used to train and benchmark object detection, segmentation, and captioning algorithms.  
 
 ![image1]
+
+2. Feature vectors for images are generated using a CNN based on the ResNet architecture.
+4. Implemented a CNN to transform the input image into a set of features.
 ![image2]
+
+3. Implemented an RNN decoder using LSTM cells.
+![image3]
+4. Trained the network around 10 hrs using GPU and achieved average loss of around 2%.
+![image4]
 
 The project is broken up into a few main parts in four Python notebooks
 
