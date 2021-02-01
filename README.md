@@ -18,15 +18,8 @@ The project is broken up into a few main parts in four Python notebooks
 
 ![image1]
 
-- __1_Preliminaries.ipynb__ : Design a CNN-RNN model for automatically generating image captions.
+- __1_Preliminaries.ipynb__ : Design a CNN-RNN model for automatically generating image captions. Implemented a CNN to transform to transform the input image into a set of features and Implemented an RNN decoder using LSTM cells to generate captions. 
 
-Implemented a CNN to transform the input image into a set of features.
-![image2]
-
-Implemented an RNN decoder using LSTM cells.
-![image3]
-
-CNN-RNN model
 ![image4]
 
 - __2_Training.ipynb__ : Train the CNN-RNN model. 
