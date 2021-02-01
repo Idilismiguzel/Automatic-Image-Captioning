@@ -1,8 +1,8 @@
 [//]: # (Image References)
 [image1]: ./images/coco-examples.jpg "COCO"
-[image2]: ./images/encoder-decoder.png "Encoder-Decoder"
-[image3]: ./images/encoder.png "Encoder"
-[image4]: ./images/decoder.png "Decoder"
+[image2]: ./images/encoder.png "Encoder"
+[image3]: ./images/decoder.png "Decoder"
+[image4]: ./images/encoder-decoder.png "Encoder-Decoder"
 
 # Automatic Image Captioning 
 
