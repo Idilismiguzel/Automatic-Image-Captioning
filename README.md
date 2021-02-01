@@ -37,7 +37,6 @@ CNN-RNN model
 Trained the network around 10 hrs using GPU and achieved average loss of around 2%.
 
 __Some very accurate results from the model__
-
 ![image6]
 
 __Some not very accurate captions__ 😂😂
