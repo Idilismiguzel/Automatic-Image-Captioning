@@ -3,9 +3,9 @@
 [image2]: ./images/encoder.png "Encoder"
 [image3]: ./images/decoder.png "Decoder"
 [image4]: ./images/encoder-decoder.png "Encoder-Decoder"
-[image5]: ./images/1.JPG 
-[image6]: ./images/5.JPG 
-[image7]: ./images/4.JPG 
+[image5]: ./images/1.JPG "accurate"
+[image6]: ./images/5.JPG "accurate2"
+[image7]: ./images/4.JPG "underperform"
 # Automatic Image Captioning 
 
 ## Project Overview
